@@ -2,7 +2,7 @@
   <img src="https://github.com/box/sdks/blob/master/images/box-dev-logo.png" alt= “box-dev-logo” width="30%" height="50%">
 </p>
 
-# Box TypeScript SDK GENERATED
+# Box TypeScript SDK GENERATED forked for Cloud Deployment
 
 [![Project Status](http://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
 ![build](https://github.com/box/box-typescript-sdk-gen/actions/workflows/build_and_test.yml/badge.svg)
